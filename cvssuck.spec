@@ -5,7 +5,7 @@ Version:	0.3
 Release:	1
 License:	BSD
 Group:		Applications
-Source0:	ftp://ftp.debian.org/debian/pool/main/c/cvssuck/%{name}_%{version}.cvs%{subver}.orig.tar.gz
+Source0:	http://ftp.debian.org/debian/pool/main/c/cvssuck/%{name}_%{version}.cvs%{subver}.orig.tar.gz
 # Source0-md5:	87fceb81f6ea11d8582413a5a1fd965a
 URL:		http://cvs.m17n.org/~akr/cvssuck/
 BuildRequires:	rpmbuild(macros) >= 1.484
